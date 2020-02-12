@@ -1,2 +1,2 @@
 # Hello-world-
-First repository
+A well guarded tradition when creating a first repository
